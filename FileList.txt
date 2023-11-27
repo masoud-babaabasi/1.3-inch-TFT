@@ -1,0 +1,12 @@
+D:/Masoud/github_projects/240x240_lcd/Source/APPW_MainTask.c
+D:/Masoud/github_projects/240x240_lcd/Source/Generated/Resource.h
+D:/Masoud/github_projects/240x240_lcd/Source/Generated/Resource.c
+D:/Masoud/github_projects/240x240_lcd/Source/Generated/APPWConf.c
+D:/Masoud/github_projects/240x240_lcd/Source/Generated/ID_SCREEN_MAIN.h
+D:/Masoud/github_projects/240x240_lcd/Source/Generated/ID_SCREEN_MAIN.c
+D:/Masoud/github_projects/240x240_lcd/Source/CustomCode/ID_SCREEN_MAIN_Slots.c
+D:/Masoud/github_projects/240x240_lcd/Resource/Image/ding.c
+D:/Masoud/github_projects/240x240_lcd/Resource/Image/keypad.c
+D:/Masoud/github_projects/240x240_lcd/Resource/Image/setting.c
+D:/Masoud/github_projects/240x240_lcd/Resource/Font/Tahoma_72_Normal_EXT_AA4.c
+D:/Masoud/github_projects/240x240_lcd/Resource/Text/APPW_Language_0.c
